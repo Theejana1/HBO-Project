@@ -13,6 +13,7 @@
 		39B9A75A23CF7A5900AEC46A /* HBO_Project.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 39B9A75823CF7A5900AEC46A /* HBO_Project.xcdatamodeld */; };
 		39B9A75C23CF7A5900AEC46A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39B9A75B23CF7A5900AEC46A /* Assets.xcassets */; };
 		39B9A75F23CF7A5900AEC46A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39B9A75D23CF7A5900AEC46A /* LaunchScreen.storyboard */; };
+		39B9A76723CF940E00AEC46A /* hbo-now.png in Resources */ = {isa = PBXBuildFile; fileRef = 39B9A76623CF940E00AEC46A /* hbo-now.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		39B9A75B23CF7A5900AEC46A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39B9A75E23CF7A5900AEC46A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39B9A76023CF7A5900AEC46A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39B9A76623CF940E00AEC46A /* hbo-now.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "hbo-now.png"; path = "../../../../../Downloads/hbo-now.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		39B9A75023CF7A5800AEC46A /* HBO Project */ = {
 			isa = PBXGroup;
 			children = (
+				39B9A76623CF940E00AEC46A /* hbo-now.png */,
 				39B9A75123CF7A5800AEC46A /* AppDelegate.swift */,
 				39B9A75323CF7A5800AEC46A /* ViewController.swift */,
 				39B9A75523CF7A5900AEC46A /* Main.storyboard */,
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39B9A76723CF940E00AEC46A /* hbo-now.png in Resources */,
 				39B9A75F23CF7A5900AEC46A /* LaunchScreen.storyboard in Resources */,
 				39B9A75C23CF7A5900AEC46A /* Assets.xcassets in Resources */,
 				39B9A75723CF7A5900AEC46A /* Main.storyboard in Resources */,
